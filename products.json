@@ -1,0 +1,15 @@
+[
+    {
+      "id": "1",
+      "title": "Vegetables",
+      "description": "It may exclude foods derived from some plants that are fruits, flowers, nuts, and cereal grains, but include savoury fruits such as tomatoes and courgettes, flowers such as broccoli, and seeds such as pulses.",
+      "img": "../assets/products/vegetables.png",
+      "items": [{
+          "id": 1,
+          "product": "broccoli",
+          "price": 1.45,
+          "img": "../assets/products/vegetables.png"
+          }]
+    }
+  ]
+  
