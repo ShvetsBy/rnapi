@@ -1,19 +1,19 @@
 
 {
     "categories": [
-        { "id": "1", "type": "Meat", "description":"", "img":"", "products": [
+        { "id": "1", "type": "Meat", "description":"", "img":"https://github.com/ShvetsBy/rnapi/blob/main/products/beef.png?raw=true", "products": [
             {"id": "1", "product": "Beef", "price":"11.99", "img":""}, 
             {"id": "2", "product": "Lamb", "price":"15.99", "img":""},
             {"id": "3", "product": "Pork", "price":"8.99", "img":""},
             {"id": "4", "product": "Ground meat", "price":"10.99", "img":""}
         ] },
-        { "id": "2", "type": "Beverages", "description":"", "img":"", "products": [
+        { "id": "2", "type": "Beverages", "description":"", "img":"https://github.com/ShvetsBy/rnapi/blob/main/products/tea.png?raw=true", "products": [
             {"id": "1", "product": "Tea", "price": "1.99", "img":""}, 
             {"id": "2", "product": "Coffee", "price": "3.99", "img":""},
             {"id": "3", "product": "Chocolate", "price": "2.99", "img":""},
             {"id": "4", "product": "Matcha", "price": "10.99", "img":""}
         ] },
-        { "id": "3", "type": "Vegetables", "description":"", "img":"", "products": [
+        { "id": "3", "type": "Vegetables", "description":"", "img":"https://github.com/ShvetsBy/rnapi/blob/main/products/vegetables.png?raw=true", "products": [
             {"id": "1", "product": "Tomato", "price": "2.99", "img":""}, 
             {"id": "2", "product": "Potato", "price": "0.99", "img":""},
             {"id": "3", "product": "Cucumber", "price": "1.99", "img":""},
@@ -21,29 +21,30 @@
             {"id": "5", "product": "Carrot", "price": "0.99", "img":""},
             {"id": "6", "product": "Pepper", "price": "3.99", "img":""}
         ] },
-        { "id": "4", "type": "Fruits", "description":"", "img":"", "products": [
+        { "id": "4", "type": "Fruits", "description":"", "img":"https://github.com/ShvetsBy/rnapi/blob/main/products/fruits.png?raw=true", "products": [
             {"id": "1", "product": "Apple", "price": "1.99", "img":""}, 
             {"id": "2", "product": "Banana", "price": "2.99", "img":""},
             {"id": "3", "product": "Pineapple", "price": "4.99", "img":""},
             {"id": "4", "product": "Pear", "price": "1.49", "img":""}, 
             {"id": "5", "product": "Mango", "price": "5.99", "img":""},
-            {"id": "6", "product": "Melon", "price": "0.99", "img":""}] },
-        { "id": "5", "type": "Bread", "description":"", "img":"", "products": [
+            {"id": "6", "product": "Melon", "price": "0.99", "img":""}
+        ] },
+        { "id": "5", "type": "Bread", "description":"", "img":"https://github.com/ShvetsBy/rnapi/blob/main/products/bread.png?raw=true", "products": [
             {"id": "1", "product": "Toast", "price": "0.99", "img":""}
         ] },
-        { "id": "6", "type": "Pasta", "description":"", "img":"", "products": [
+        { "id": "6", "type": "Pasta", "description":"", "img":"https://github.com/ShvetsBy/rnapi/blob/main/products/pasta.png?raw=true", "products": [
             {"id": "1", "product": "Spaghetti", "price": "1.99", "img":""}, 
             {"id": "2", "product": "Ravioli", "price": "2.99", "img":""},
             {"id": "3", "product": "Lasagne", "price": "1.99", "img":""},
             {"id": "4", "product": "Penne", "price": "1.99", "img":""}
         ] },
-        { "id": "7", "type": "Sweets", "description":"", "img":"", "products": [
+        { "id": "7", "type": "Sweets", "description":"", "img":"https://github.com/ShvetsBy/rnapi/blob/main/products/sweets.png?raw=true", "products": [
             {"id": "1", "product": "Raffaello", "price": "3.99", "img":""}, 
             {"id": "2", "product": "Nesquik", "price": "0.99", "img":""},
             {"id": "3", "product": "Michelle", "price": "2.99", "img":""},
             {"id": "4", "product": "Roshen", "price": "1.99", "img":""}
         ] },
-        { "id": "8", "type": "Beer", "description":"", "img":"", "products": [
+        { "id": "8", "type": "Beer", "description":"", "img":"https://github.com/ShvetsBy/rnapi/blob/main/products/beer.png?raw=true", "products": [
             {"id": "1", "product": "Dark", "price": "1.99", "img":""}, 
             {"id": "2", "product": "Lager", "price": "1.99", "img":""},
             {"id": "3", "product": "Blanche", "price": "2.99", "img":""},
