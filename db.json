@@ -38,7 +38,7 @@
             {"id": "3", "product": "Lasagne", "price": "1.99", "img":""},
             {"id": "4", "product": "Penne", "price": "1.99", "img":""}
         ] },
-        { "id": "7", "type": "Sweets", "description":"", "img":"https://github.com/ShvetsBy/rnapi/blob/main/products/sweets.png?raw=true", "products": [
+        { "id": "7", "type": "Sweets", "description": "Candy, also called sweets or lollies is a confection that features sugar as a principal ingredient. The category, called sugar confectionery, encompasses any sweet confection, including chocolate, chewing gum, and sugar candy. ", "img":"https://github.com/ShvetsBy/rnapi/blob/main/products/sweets.png?raw=true", "products": [
             {"id": "1", "product": "Raffaello", "price": "3.99", "img":""}, 
             {"id": "2", "product": "Nesquik", "price": "0.99", "img":""},
             {"id": "3", "product": "Michelle", "price": "2.99", "img":""},
