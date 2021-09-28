@@ -8,10 +8,10 @@
             {"id": "4", "product": "Ground meat", "price":"10.99", "img": "https://github.com/ShvetsBy/rnapi/blob/main/products/meat/groundmeat.png?raw=true"}
         ] },
         { "id": "2", "type": "Beverages", "description": "Tea is an aromatic beverage prepared by pouring hot or boiling water over cured or fresh leaves of Camellia sinensis, an evergreen shrub native to China and East Asia.After water, it is the most widely consumed drink in the world.", "img":"https://github.com/ShvetsBy/rnapi/blob/main/products/tea.png?raw=true", "products": [
-            {"id": "1", "product": "Tea", "price": "1.99", "img":""}, 
-            {"id": "2", "product": "Coffee", "price": "3.99", "img":""},
-            {"id": "3", "product": "Chocolate", "price": "2.99", "img": ""},
-            {"id": "4", "product": "Matcha", "price": "10.99", "img":""}
+            {"id": "1", "product": "Tea", "price": "1.99", "img": "https://github.com/ShvetsBy/rnapi/blob/main/products/beverages/tea.png?raw=true"}, 
+            {"id": "2", "product": "Coffee", "price": "3.99", "img": "https://github.com/ShvetsBy/rnapi/blob/main/products/beverages/coffee.png?raw=true"},
+            {"id": "3", "product": "Chocolate", "price": "2.99", "img": "https://github.com/ShvetsBy/rnapi/blob/main/products/beverages/chocolatepowder.png?raw=true"},
+            {"id": "4", "product": "Matcha", "price": "10.99", "img": "https://github.com/ShvetsBy/rnapi/blob/main/products/beverages/matcha.png?raw=true"}
         ] },
         { "id": "3", "type": "Vegetables", "description": "It may exclude foods derived from some plants that are fruits, flowers, nuts, and cereal grains, but include savoury fruits such as tomatoes and courgettes, flowers such as broccoli, and seeds such as pulses.", "img":"https://github.com/ShvetsBy/rnapi/blob/main/products/vegetables.png?raw=true", "products": [
             {"id": "1", "product": "Tomato", "price": "2.99", "img":""}, 
