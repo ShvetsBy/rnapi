@@ -44,7 +44,7 @@
             {"id": "3", "product": "Michelle", "price": "2.99", "img":""},
             {"id": "4", "product": "Roshen", "price": "1.99", "img":""}
         ] },
-        { "id": "8", "type": "Beer", "description":"", "img":"https://github.com/ShvetsBy/rnapi/blob/main/products/beer.png?raw=true", "products": [
+        { "id": "8", "type": "Beer", "description": "Beer is one of the oldest and most widely consumed alcoholic drinks, and the third most popular drink overall after water and tea. It is produced by the brewing and fermentation of starches, derived from cereal grains—most commonly from malted barley.", "img":"https://github.com/ShvetsBy/rnapi/blob/main/products/beer.png?raw=true", "products": [
             {"id": "1", "product": "Dark", "price": "1.99", "img":""}, 
             {"id": "2", "product": "Lager", "price": "1.99", "img":""},
             {"id": "3", "product": "Blanche", "price": "2.99", "img":""},
