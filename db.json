@@ -21,7 +21,13 @@
             {"id": "5", "product": "Carrot", "price": "0.99", "img":""},
             {"id": "6", "product": "Pepper", "price": "3.99", "img":""}
         ] },
-        { "id": "4", "type": "Fruits", "description":"", "img":"", "products": [] },
+        { "id": "4", "type": "Fruits", "description":"", "img":"", "products": [
+            {"id": "1", "product": "Apple", "price": "1.99", "img":""}, 
+            {"id": "2", "product": "Banana", "price": "2.99", "img":""},
+            {"id": "3", "product": "Pineapple", "price": "4.99", "img":""},
+            {"id": "4", "product": "Pear", "price": "1.49", "img":""}, 
+            {"id": "5", "product": "Mango", "price": "5.99", "img":""},
+            {"id": "6", "product": "Melon", "price": "0.99", "img":""}] },
         { "id": "5", "type": "Bread", "description":"", "img":"", "products": [] },
         { "id": "6", "type": "Pasta", "description":"", "img":"", "products": [] },
         { "id": "7", "type": "Sweets", "description":"", "img":"", "products": [] },
