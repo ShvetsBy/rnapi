@@ -1,11 +1,14 @@
 
 {
     "products": [
-        { "type": "Vegetables" },
-        { "type": "Fruits" },
-        { "type": "Bread" },
-        { "type": "Sweets" },
-        { "type": "Pasta" },
-        { "type": "Beverages" }
+        { "type": "Meat", "id": "1" },
+        { "type": "Beverages", "id": "2" }
+        { "type": "Vegetables", "id": "3" },
+        { "type": "Fruits", "id": "4" },
+        { "type": "Bread", "id": "5" },
+        { "type": "Pasta", "id": "6" },
+        { "type": "Sweets", "id": "7" },
+        { "type": "Beer", "id": "8" }
+        
     ]
 }
