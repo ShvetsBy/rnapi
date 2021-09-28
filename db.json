@@ -19,7 +19,7 @@
             {"id": "3", "product": "Cucumber", "price":"1.99", "img":""},
             {"id": "4", "product": "Onion", "price":"0.49", "img":""}, 
             {"id": "5", "product": "Carrot", "price":"0.99", "img":""},
-            {"id": "5", "product": "Pepper", "price":"3.99", "img":""}
+            {"id": "6", "product": "Pepper", "price":"3.99", "img":""},
         ] },
         { "id": "4", "type": "Fruits", "description":"", "img":"", "products": [] },
         { "id": "5", "type": "Bread", "description":"", "img":"", "products": [] },
