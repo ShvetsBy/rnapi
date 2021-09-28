@@ -1,7 +1,7 @@
 
 {
     "categories": [
-        { "id": "1", "type": "Meat", "description":"", "img":"https://github.com/ShvetsBy/rnapi/blob/main/products/beef.png?raw=true", "products": [
+        { "id": "1", "type": "Meat", "description":"Meat is a good source of protein, vitamins and minerals in your diet. For example meat is a major source of five of the B-complex vitamins: thiamin, riboflavin, niacin, vitamin B6 and vitamin B12.  ", "img":"https://github.com/ShvetsBy/rnapi/blob/main/products/beef.png?raw=true", "products": [
             {"id": "1", "product": "Beef", "price":"11.99", "img":""}, 
             {"id": "2", "product": "Lamb", "price":"15.99", "img":""},
             {"id": "3", "product": "Pork", "price":"8.99", "img":""},
