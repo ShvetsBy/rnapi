@@ -1,32 +1,16 @@
 {
-      "id": "1",
-      "title": "Vegetables",
-      "description": "It may exclude foods derived from some plants that are fruits, flowers, nuts, and cereal grains, but include savoury fruits such as tomatoes and courgettes, flowers such as broccoli, and seeds such as pulses.",
-      "img": "../assets/products/vegetables.png",
-      "items": [{
-          "id": 1,
-          "product": "broccoli",
-          "price": 1.45,
-          "img": "../assets/products/vegetables.png"
-          },
-               {
-          "id": 2,
-          "product": "broccoli",
-          "price": 1.45,
-          "img": "../assets/products/vegetables.png"
-          }]
+    "firstName": "Rack",
+    "lastName": "jackson",
+    "gender": "man",
+    "age": 24,
+    "address": {
+        "streetAddress": "126 Udhna",
+        "city": "san jone",
+        "state": "CA",
+        "postalCode": "394221"
     },
-     {
-      "id": "2",
-      "title": "Vegetables",
-      "description": "It may exclude foods derived from some plants that are fruits, flowers, nuts, and cereal grains, but include savoury fruits such as tomatoes and courgettes, flowers such as broccoli, and seeds such as pulses.",
-      "img": "../assets/products/vegetables.png",
-      "items": [{
-          "id": 1,
-          "product": "broccoli",
-          "price": 1.45,
-          "img": "../assets/products/vegetables.png"
-          }]
-    }
-
+    "phoneNumbers": [
+        { "type": "home", "number": "7383627627" }
+    ]
+}
   
