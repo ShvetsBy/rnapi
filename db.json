@@ -1,9 +1,26 @@
 
 {
     "categories": [
-        { "id": "1", "type": "Meat", "description":"", "img":"", "products": [{"id": "1", "product": "Beef", "price":"1.99", "img":""}] },
-        { "id": "2", "type": "Beverages", "description":"", "img":"", "products": [] },
-        { "id": "3", "type": "Vegetables", "description":"", "img":"", "products": [] },
+        { "id": "1", "type": "Meat", "description":"", "img":"", "products": [
+            {"id": "1", "product": "Beef", "price":"11.99", "img":""}, 
+            {"id": "2", "product": "Lamb", "price":"15.99", "img":""},
+            {"id": "3", "product": "Pork", "price":"8.99", "img":""},
+            {"id": "4", "product": "Ground meat", "price":"10.99", "img":""},
+        ] },
+        { "id": "2", "type": "Beverages", "description":"", "img":"", "products": [
+            {"id": "1", "product": "Tea", "price":"1.99", "img":""}, 
+            {"id": "2", "product": "Coffee", "price":"3.99", "img":""},
+            {"id": "3", "product": "Chocolate", "price":"2.99", "img":""},
+            {"id": "4", "product": "Matcha", "price":"10.99", "img":""},
+        ] },
+        { "id": "3", "type": "Vegetables", "description":"", "img":"", "products": [
+            {"id": "1", "product": "Tomato", "price":"2.99", "img":""}, 
+            {"id": "2", "product": "Potato", "price":"0.99", "img":""},
+            {"id": "3", "product": "Cucumber", "price":"1.99", "img":""},
+            {"id": "4", "product": "Onion", "price":"0.49", "img":""}, 
+            {"id": "5", "product": "Carrot", "price":"0.99", "img":""},
+            {"id": "5", "product": "Pepper", "price":"3.99", "img":""}
+        ] },
         { "id": "4", "type": "Fruits", "description":"", "img":"", "products": [] },
         { "id": "5", "type": "Bread", "description":"", "img":"", "products": [] },
         { "id": "6", "type": "Pasta", "description":"", "img":"", "products": [] },
