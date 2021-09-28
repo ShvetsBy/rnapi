@@ -7,7 +7,7 @@
             {"id": "3", "product": "Pork", "price":"8.99", "img":""},
             {"id": "4", "product": "Ground meat", "price":"10.99", "img":""}
         ] },
-        { "id": "2", "type": "Beverages", "description":"", "img":"https://github.com/ShvetsBy/rnapi/blob/main/products/tea.png?raw=true", "products": [
+        { "id": "2", "type": "Beverages", "description":"Tea is an aromatic beverage prepared by pouring hot or boiling water over cured or fresh leaves of Camellia sinensis, an evergreen shrub native to China and East Asia.After water, it is the most widely consumed drink in the world.", "img":"https://github.com/ShvetsBy/rnapi/blob/main/products/tea.png?raw=true", "products": [
             {"id": "1", "product": "Tea", "price": "1.99", "img":""}, 
             {"id": "2", "product": "Coffee", "price": "3.99", "img":""},
             {"id": "3", "product": "Chocolate", "price": "2.99", "img":""},
