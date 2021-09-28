@@ -2,7 +2,7 @@
 {
     "products": [
         { "type": "Meat", "id": "1" },
-        { "type": "Beverages", "id": "2" }
+        { "type": "Beverages", "id": "2" },
         { "type": "Vegetables", "id": "3" },
         { "type": "Fruits", "id": "4" },
         { "type": "Bread", "id": "5" },
