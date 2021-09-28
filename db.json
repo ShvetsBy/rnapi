@@ -1,11 +1,11 @@
 
 {
     "products": [
-        { "type": "Vegetables" }
-        { "type": "Fruits" }
-        { "type": "Bread" }
-        { "type": "Sweets" }
-        { "type": "Pasta" }
+        { "type": "Vegetables" },
+        { "type": "Fruits" },
+        { "type": "Bread" },
+        { "type": "Sweets" },
+        { "type": "Pasta" },
         { "type": "Beverages" }
     ]
 }
