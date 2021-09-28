@@ -33,10 +33,20 @@
         ] },
         { "id": "6", "type": "Pasta", "description":"", "img":"", "products": [
             {"id": "1", "product": "Spaghetti", "price": "1.99", "img":""}, 
-            {"id": "2", "product": "Ravioli", "price": "3.99", "img":""},
-            {"id": "3", "product": "Lasagne", "price": "2.99", "img":""},
-            {"id": "4", "product": "Penne", "price": "10.99", "img":""}] },
-        { "id": "7", "type": "Sweets", "description":"", "img":"", "products": [] },
-        { "id": "8", "type": "Beer", "description":"", "img":"", "products": [] }
+            {"id": "2", "product": "Ravioli", "price": "2.99", "img":""},
+            {"id": "3", "product": "Lasagne", "price": "1.99", "img":""},
+            {"id": "4", "product": "Penne", "price": "1.99", "img":""}\
+        ] },
+        { "id": "7", "type": "Sweets", "description":"", "img":"", "products": [
+            {"id": "1", "product": "Raffaello", "price": "3.99", "img":""}, 
+            {"id": "2", "product": "Nesquik", "price": "0.99", "img":""},
+            {"id": "3", "product": "Michelle", "price": "2.99", "img":""},
+            {"id": "4", "product": "Roshen", "price": "1.99", "img":""}] },
+        ] },
+        { "id": "8", "type": "Beer", "description":"", "img":"", "products": [
+            {"id": "1", "product": "Dark", "price": "1.99", "img":""}, 
+            {"id": "2", "product": "Lager", "price": "1.99", "img":""},
+            {"id": "3", "product": "Blanche", "price": "2.99", "img":""},
+            {"id": "4", "product": "IPA", "price": "3.99", "img":""}] },] }
     ]
 }
