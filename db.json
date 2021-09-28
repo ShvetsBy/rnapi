@@ -1,13 +1,13 @@
 
 {
     "products": [
-        { "id": "1", "type": "Meat", "img":"" },
-        { "id": "2", "type": "Beverages", "img":"" },
-        { "id": "3", "type": "Vegetables", "img":"" },
-        { "id": "4", "type": "Fruits", "img":"" },
-        { "id": "5", "type": "Bread", "img":"" },
-        { "id": "6", "type": "Pasta", "img":"" },
-        { "id": "7", "type": "Sweets", "img":"" },
-        { "id": "8", "type": "Beer", "img":"" }
+        { "id": "1", "type": "Meat", "description":"", "img":"" },
+        { "id": "2", "type": "Beverages", "description":"", "img":"" },
+        { "id": "3", "type": "Vegetables", "description":"", "img":"" },
+        { "id": "4", "type": "Fruits", "description":"", "img":"" },
+        { "id": "5", "type": "Bread", "description":"", "img":"" },
+        { "id": "6", "type": "Pasta", "description":"", "img":"" },
+        { "id": "7", "type": "Sweets", "description":"", "img":"" },
+        { "id": "8", "type": "Beer", "description":"", "img":"" }
     ]
 }
