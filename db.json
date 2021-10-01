@@ -1,54 +1,75 @@
 
 {
     "categories": [
-        { "id": "1", "type": "Meat", "description": "Meat is a good source of protein, vitamins and minerals in your diet. For example meat is a major source of five of the B-complex vitamins: thiamin, riboflavin, niacin, vitamin B6 and vitamin B12.  ", "img":"https://github.com/ShvetsBy/rnapi/blob/a561618cec116d0cf05b88bd056d4760b4eddab5/products/beef.png", "products": [
-            {"id": "1", "product": "Beef", "price":"11.99", "img": "https://github.com/ShvetsBy/rnapi/blob/a561618cec116d0cf05b88bd056d4760b4eddab5/products/beef.png"}, 
-            {"id": "2", "product": "Lamb", "price":"15.99", "img": "https://github.com/ShvetsBy/rnapi/blob/main/products/meat/lamb.png?raw=true"},
-            {"id": "3", "product": "Pork", "price":"8.99", "img":"https://github.com/ShvetsBy/rnapi/blob/main/products/meat/pork.png?raw=true"},
-            {"id": "4", "product": "Ground meat", "price":"10.99", "img": "https://github.com/ShvetsBy/rnapi/blob/main/products/meat/groundmeat.png?raw=true"}
+        { "id": "1", "type": "Meat", 
+        "description": "Meat is a good source of protein, vitamins and minerals in your diet. For example meat is a major source of five of the B-complex vitamins: thiamin, riboflavin, niacin, vitamin B6 and vitamin B12.  ", 
+        "img":"https://res.cloudinary.com/dohcfd1bo/image/upload/v1633077301/RNApp/products/beef.png",
+         "products": [
+            {"id": "1", "product": "Beef", "price":"11.99", 
+                "img": "https://res.cloudinary.com/dohcfd1bo/image/upload/v1633077456/RNApp/products/meat/beef.png"}, 
+            {"id": "2", "product": "Lamb", "price":"15.99", 
+                "img": "https://res.cloudinary.com/dohcfd1bo/image/upload/v1633077456/RNApp/products/meat/lamb.png"},
+            {"id": "3", "product": "Pork", "price":"8.99", 
+                "img":"https://res.cloudinary.com/dohcfd1bo/image/upload/v1633077456/RNApp/products/meat/pork.png"},
+            {"id": "4", "product": "Ground meat", "price":"10.99", 
+                "img": "https://res.cloudinary.com/dohcfd1bo/image/upload/v1633077457/RNApp/products/meat/groundmeat.png"}
         ] },
-        { "id": "2", "type": "Beverages", "description": "Tea is an aromatic beverage prepared by pouring hot or boiling water over cured or fresh leaves of Camellia sinensis, an evergreen shrub native to China and East Asia.After water, it is the most widely consumed drink in the world.", "img":"https://github.com/ShvetsBy/rnapi/blob/main/products/tea.png?raw=true", "products": [
-            {"id": "1", "product": "Tea", "price": "1.99", "img": "https://github.com/ShvetsBy/rnapi/blob/main/products/beverages/tea.png?raw=true"}, 
-            {"id": "2", "product": "Coffee", "price": "3.99", "img": "https://github.com/ShvetsBy/rnapi/blob/main/products/beverages/coffee.png?raw=true"},
-            {"id": "3", "product": "Chocolate", "price": "2.99", "img": "https://github.com/ShvetsBy/rnapi/blob/main/products/beverages/chocolatepowder.png?raw=true"},
-            {"id": "4", "product": "Matcha", "price": "10.99", "img": "https://github.com/ShvetsBy/rnapi/blob/main/products/beverages/matcha.png?raw=true"}
+        { "id": "2", "type": "Beverages", 
+            "description": "Tea is an aromatic beverage prepared by pouring hot or boiling water over cured or fresh leaves of Camellia sinensis, an evergreen shrub native to China and East Asia.After water, it is the most widely consumed drink in the world.", 
+            "img":"https://res.cloudinary.com/dohcfd1bo/image/upload/v1633077302/RNApp/products/tea.png", "products": [
+            {"id": "1", "product": "Tea", "price": "1.99", "img": "https://res.cloudinary.com/dohcfd1bo/image/upload/v1633077358/RNApp/products/beverages/tea.png"}, 
+            {"id": "2", "product": "Coffee", "price": "3.99", "img": "https://res.cloudinary.com/dohcfd1bo/image/upload/v1633077357/RNApp/products/beverages/coffee.png"},
+            {"id": "3", "product": "Chocolate", "price": "2.99", "img": "https://res.cloudinary.com/dohcfd1bo/image/upload/v1633077357/RNApp/products/beverages/chocolatepowder.png"},
+            {"id": "4", "product": "Matcha", "price": "10.99", "img": "https://res.cloudinary.com/dohcfd1bo/image/upload/v1633077357/RNApp/products/beverages/matcha.png"}
         ] },
-        { "id": "3", "type": "Vegetables", "description": "It may exclude foods derived from some plants that are fruits, flowers, nuts, and cereal grains, but include savoury fruits such as tomatoes and courgettes, flowers such as broccoli, and seeds such as pulses.", "img":"https://github.com/ShvetsBy/rnapi/blob/main/products/vegetables.png?raw=true", "products": [
-            {"id": "1", "product": "Tomato", "price": "2.99", "img":""}, 
-            {"id": "2", "product": "Potato", "price": "0.99", "img":""},
-            {"id": "3", "product": "Cucumber", "price": "1.99", "img":""},
-            {"id": "4", "product": "Onion", "price": "0.49", "img":""}, 
-            {"id": "5", "product": "Carrot", "price": "0.99", "img":""},
-            {"id": "6", "product": "Pepper", "price": "3.99", "img":""}
+        { "id": "3", "type": "Vegetables", 
+            "description": "It may exclude foods derived from some plants that are fruits, flowers, nuts, and cereal grains, but include savoury fruits such as tomatoes and courgettes, flowers such as broccoli, and seeds such as pulses.", 
+            "img":"https://res.cloudinary.com/dohcfd1bo/image/upload/v1633077302/RNApp/products/vegetables.png", "products": [
+            {"id": "1", "product": "Tomato", "price": "2.99", "img":"https://res.cloudinary.com/dohcfd1bo/image/upload/v1633077520/RNApp/products/vegetables/tomato.png"}, 
+            {"id": "2", "product": "Potato", "price": "0.99", "img":"https://res.cloudinary.com/dohcfd1bo/image/upload/v1633077520/RNApp/products/vegetables/potato.png"},
+            {"id": "3", "product": "Cucumber", "price": "1.99", "img":"https://res.cloudinary.com/dohcfd1bo/image/upload/v1633077520/RNApp/products/vegetables/cucumber.png"},
+            {"id": "4", "product": "Onion", "price": "0.49", "img":"https://res.cloudinary.com/dohcfd1bo/image/upload/v1633077519/RNApp/products/vegetables/onion.png"}, 
+            {"id": "5", "product": "Carrot", "price": "0.99", "img":"https://res.cloudinary.com/dohcfd1bo/image/upload/v1633077520/RNApp/products/vegetables/carrot.png"},
+            {"id": "6", "product": "Pepper", "price": "3.99", "img":"https://res.cloudinary.com/dohcfd1bo/image/upload/v1633077519/RNApp/products/vegetables/pepper.png"}
         ] },
-        { "id": "4", "type": "Fruits", "description": "Healthcare professionals know that fruit is a highly nutritious, delicious, and convenient addition to any diet. With more than 2,000 varieties of fruit available, you may wonder which ones you should pick.", "img":"https://github.com/ShvetsBy/rnapi/blob/main/products/fruits.png?raw=true", "products": [
-            {"id": "1", "product": "Apple", "price": "1.99", "img":""}, 
-            {"id": "2", "product": "Banana", "price": "2.99", "img":""},
-            {"id": "3", "product": "Pineapple", "price": "4.99", "img":""},
-            {"id": "4", "product": "Pear", "price": "1.49", "img":""}, 
-            {"id": "5", "product": "Mango", "price": "5.99", "img":""},
-            {"id": "6", "product": "Melon", "price": "0.99", "img":""}
+        { "id": "4", "type": "Fruits", 
+            "description": "Healthcare professionals know that fruit is a highly nutritious, delicious, and convenient addition to any diet. With more than 2,000 varieties of fruit available, you may wonder which ones you should pick.", 
+            "img":"https://res.cloudinary.com/dohcfd1bo/image/upload/v1633077301/RNApp/products/fruits.png", "products": [
+            {"id": "1", "product": "Apple", "price": "1.99", "img":"https://res.cloudinary.com/dohcfd1bo/image/upload/v1633077433/RNApp/products/fruits/apple.png"}, 
+            {"id": "2", "product": "Banana", "price": "2.99", "img":"https://res.cloudinary.com/dohcfd1bo/image/upload/v1633077433/RNApp/products/fruits/banano.png"},
+            {"id": "3", "product": "Pineapple", "price": "4.99", "img":"https://res.cloudinary.com/dohcfd1bo/image/upload/v1633077433/RNApp/products/fruits/pineapple.png"},
+            {"id": "4", "product": "Pear", "price": "1.49", "img":"https://res.cloudinary.com/dohcfd1bo/image/upload/v1633077433/RNApp/products/fruits/pear.png"}, 
+            {"id": "5", "product": "Mango", "price": "5.99", "img":"https://res.cloudinary.com/dohcfd1bo/image/upload/v1633077433/RNApp/products/fruits/mango.png"},
+            {"id": "6", "product": "Melon", "price": "0.99", "img":"https://res.cloudinary.com/dohcfd1bo/image/upload/v1633077433/RNApp/products/fruits/melon.png"}
         ] },
-        { "id": "5", "type": "Bread", "description": "Bread is a staple food prepared from a dough of flour and water, usually by baking. It is one of the oldest human-made foods, having been of significant importance since the dawn of agriculture.", "img":"https://github.com/ShvetsBy/rnapi/blob/main/products/bread.png?raw=true", "products": [
+        { "id": "5", "type": "Bread", 
+            "description": "Bread is a staple food prepared from a dough of flour and water, usually by baking. It is one of the oldest human-made foods, having been of significant importance since the dawn of agriculture.", 
+            "img":"https://res.cloudinary.com/dohcfd1bo/image/upload/v1633077409/RNApp/products/bread/toastbread.png", "products": [
             {"id": "1", "product": "Toast", "price": "0.99", "img": "https://github.com/ShvetsBy/rnapi/blob/1b053052778c65edbff0daf68b834d7c0ba68030/products/bread/toastbread.png"}
         ] },
-        { "id": "6", "type": "Pasta", "description": "Pasta is a type of food typically made from an unleavened dough of wheat flour mixed with water or eggs, and formed into sheets or other shapes, then cooked by boiling or baking. Pasta is a staple food of Italian cuisine.", "img":"https://github.com/ShvetsBy/rnapi/blob/main/products/pasta.png?raw=true", "products": [
-            {"id": "1", "product": "Spaghetti", "price": "1.99", "img":""}, 
-            {"id": "2", "product": "Ravioli", "price": "2.99", "img":""},
-            {"id": "3", "product": "Lasagne", "price": "1.99", "img":""},
-            {"id": "4", "product": "Penne", "price": "1.99", "img":""}
+        { "id": "6", "type": "Pasta", 
+            "description": "Pasta is a type of food typically made from an unleavened dough of wheat flour mixed with water or eggs, and formed into sheets or other shapes, then cooked by boiling or baking. Pasta is a staple food of Italian cuisine.", 
+            "img":"https://res.cloudinary.com/dohcfd1bo/image/upload/v1633077302/RNApp/products/pasta.png", "products": [
+            {"id": "1", "product": "Spaghetti", "price": "1.99", "img":"https://res.cloudinary.com/dohcfd1bo/image/upload/v1633077477/RNApp/products/pasta/Spaghetti.png"}, 
+            {"id": "2", "product": "Ravioli", "price": "2.99", "img":"https://res.cloudinary.com/dohcfd1bo/image/upload/v1633077477/RNApp/products/pasta/Ravioli.png"},
+            {"id": "3", "product": "Lasagne", "price": "1.99", "img":"https://res.cloudinary.com/dohcfd1bo/image/upload/v1633077477/RNApp/products/pasta/Lasagne.png"},
+            {"id": "4", "product": "Penne", "price": "1.99", "img":"https://res.cloudinary.com/dohcfd1bo/image/upload/v1633077478/RNApp/products/pasta/Penne.png"}
         ] },
-        { "id": "7", "type": "Sweets", "description": "Candy, also called sweets or lollies is a confection that features sugar as a principal ingredient. The category, called sugar confectionery, encompasses any sweet confection, including chocolate, chewing gum, and sugar candy. ", "img":"https://github.com/ShvetsBy/rnapi/blob/main/products/sweets.png?raw=true", "products": [
-            {"id": "1", "product": "Raffaello", "price": "3.99", "img":""}, 
-            {"id": "2", "product": "Nesquik", "price": "0.99", "img":""},
-            {"id": "3", "product": "Michelle", "price": "2.99", "img":""},
-            {"id": "4", "product": "Roshen", "price": "1.99", "img":""}
+        { "id": "7", "type": "Sweets", 
+            "description": "Candy, also called sweets or lollies is a confection that features sugar as a principal ingredient. The category, called sugar confectionery, encompasses any sweet confection, including chocolate, chewing gum, and sugar candy. ", 
+            "img":"https://res.cloudinary.com/dohcfd1bo/image/upload/v1633077302/RNApp/products/sweets.png", "products": [
+            {"id": "1", "product": "Raffaello", "price": "3.99", "img":"https://res.cloudinary.com/dohcfd1bo/image/upload/v1633077495/RNApp/products/sweets/Raffaello.png"}, 
+            {"id": "2", "product": "Nesquik", "price": "0.99", "img":"https://res.cloudinary.com/dohcfd1bo/image/upload/v1633077495/RNApp/products/sweets/nesquick.png"},
+            {"id": "3", "product": "Michelle", "price": "2.99", "img":"https://res.cloudinary.com/dohcfd1bo/image/upload/v1633077495/RNApp/products/sweets/Michelle.png"},
+            {"id": "4", "product": "Roshen", "price": "1.99", "img":"https://res.cloudinary.com/dohcfd1bo/image/upload/v1633077496/RNApp/products/sweets/Roshen.png"}
         ] },
-        { "id": "8", "type": "Beer", "description": "Beer is one of the oldest and most widely consumed alcoholic drinks, and the third most popular drink overall after water and tea. It is produced by the brewing and fermentation of starches, derived from cereal grains—most commonly from malted barley.", "img":"https://github.com/ShvetsBy/rnapi/blob/main/products/beer.png?raw=true", "products": [
-            {"id": "1", "product": "Dark", "price": "1.99", "img":""}, 
-            {"id": "2", "product": "Lager", "price": "1.99", "img":""},
-            {"id": "3", "product": "Blanche", "price": "2.99", "img":""},
-            {"id": "4", "product": "IPA", "price": "3.99", "img":""}
+        { "id": "8", "type": "Beer", 
+            "description": "Beer is one of the oldest and most widely consumed alcoholic drinks, and the third most popular drink overall after water and tea. It is produced by the brewing and fermentation of starches, derived from cereal grains—most commonly from malted barley.", 
+            "img":"https://res.cloudinary.com/dohcfd1bo/image/upload/v1633077301/RNApp/products/beer.png", "products": [
+            {"id": "1", "product": "Dark", "price": "1.99", "img":"https://res.cloudinary.com/dohcfd1bo/image/upload/v1633077328/RNApp/products/beer/dark.png"}, 
+            {"id": "2", "product": "Lager", "price": "1.99", "img":"https://res.cloudinary.com/dohcfd1bo/image/upload/v1633077328/RNApp/products/beer/lager.png"},
+            {"id": "3", "product": "Blanche", "price": "2.99", "img":"https://res.cloudinary.com/dohcfd1bo/image/upload/v1633077328/RNApp/products/beer/blanche.png"},
+            {"id": "4", "product": "IPA", "price": "3.99", "img":"https://res.cloudinary.com/dohcfd1bo/image/upload/v1633077328/RNApp/products/beer/ipa.png"}
         ] }
     ]
 }
