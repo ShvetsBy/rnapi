@@ -45,7 +45,7 @@
         { "id": "5", "type": "Bread", 
             "description": "Bread is a staple food prepared from a dough of flour and water, usually by baking. It is one of the oldest human-made foods, having been of significant importance since the dawn of agriculture.", 
             "img":"https://res.cloudinary.com/dohcfd1bo/image/upload/v1633077409/RNApp/products/bread/toastbread.png", "products": [
-            {"id": "1", "product": "Toast", "price": "0.99", "img": "https://github.com/ShvetsBy/rnapi/blob/1b053052778c65edbff0daf68b834d7c0ba68030/products/bread/toastbread.png"}
+            {"id": "1", "product": "Toast", "price": "0.99", "img": "https://res.cloudinary.com/dohcfd1bo/image/upload/v1633077409/RNApp/products/bread/toastbread.png"}
         ] },
         { "id": "6", "type": "Pasta", 
             "description": "Pasta is a type of food typically made from an unleavened dough of wheat flour mixed with water or eggs, and formed into sheets or other shapes, then cooked by boiling or baking. Pasta is a staple food of Italian cuisine.", 
